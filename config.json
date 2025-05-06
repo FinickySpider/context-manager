@@ -1,0 +1,7 @@
+{
+    "enabled": true,
+    "inject_memory": true,
+    "logging": true,
+    "pre_prompt_hook": true,
+    "post_response_hook": true
+  }
