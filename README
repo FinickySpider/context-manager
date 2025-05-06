@@ -1,3 +1,4 @@
+
 # 🧩 context-manager – Monkey-Patch Memory Injector for text-generation-webui
 
 `context-manager` is a **drop-in monkey-patch extension** for [text-generation-webui](https://github.com/oobabooga/text-generation-webui) that unlocks powerful persistent memory, chat logging, and customizable hooks without modifying any core files.
