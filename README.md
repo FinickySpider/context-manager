@@ -265,8 +265,6 @@ if __name__ == "__main__":
 
 You now have a fully modular, persistent memory system for your LLMs—no core edits required, fully hookable, and built for serious context retention. Extend, adapt, and build on top of `context-manager`.
 
-> 🥷 Hack the prompt. Own the flow. Inject context like a pro.
-> – Minerva out.
 
 ---
 
